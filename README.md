@@ -1,9 +1,9 @@
 # advent-of-code-2019
 Advent of Code 2019 🎄 JavaScript Solutions - Adrienne Style
 
+[![Build Status](https://github.com/adriennetacke/advent-of-code-2019/workflows/build/badge.svg)](https://github.com/adriennetacke/advent-of-code-2019/actions)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Advent of Code 2019 Solutions - Adrienne Style
 
 ## What is Advent of Code?
 [Advent of Code](http://adventofcode.com) is an online event created by [Eric Wastl](https://twitter.com/ericwastl). Each year, starting on Dec 1st, an advent calendar of small programming puzzles are unlocked once a day at midnight (EST/UTC-5). Developers of all skill sets are encouraged to solve them in any programming language they choose!
