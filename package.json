@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "Advent of Code 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha day-**/test.js"
+  },
+  "author": "Adrienne Tacke <adrienne.tacke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
