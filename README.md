@@ -27,7 +27,7 @@ The Elves quickly load you into a spacecraft and prepare to launch.
 |---|:---:|:---:|
 | ✔ [Day 1: The Tyranny of the Rocket Equation](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-1-tyranny-of-rocket-equation)| 🌟| 🌟|
 | ✔ [Day 2: 1202 Program Alarm](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-2-program-alarm)| 🌟| 🌟|
-|  [Day 3: Crossed Wires](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-3-crossed-wires)| 🌟| ⏳ In Progress|
+| ✔ [Day 3: Crossed Wires](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-3-crossed-wires)| 🌟| 🌟|
 
 ## Running Tests
 
