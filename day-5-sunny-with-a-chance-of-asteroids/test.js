@@ -2,6 +2,21 @@ const assert = require('assert');
 const diagnosticCode = require('./one');
 const diagnosticCode2 = require('./two');
 
+// Day Five - Part One Tests 
+describe('Part One', () => {
+  it('should return 1 when input is 3,0,4,0,99 and 1', () => {
+    let input = `3,0,4,0,99`;
+    assert.strictEqual(diagnosticCode(input, 1), 1);
+  });
+});
+describe('Part One', () => {
+  it('should return 0 when input 1002,4,3,4,33 and 1', () => {
+    let input = `1002,4,3,4,33`;
+    assert.strictEqual(diagnosticCode(input, 1), 0);
+  });
+});
+
+
 // Day Five - Part Two Tests 
 describe('Part Two - equal to 8, position mode', () => {
   it('should return 1 when input is 3,9,8,9,10,9,4,9,99,-1,8 and 8', () => {
