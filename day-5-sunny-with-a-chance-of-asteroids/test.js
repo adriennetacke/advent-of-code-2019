@@ -2,29 +2,6 @@ const assert = require('assert');
 const diagnosticCode = require('./one');
 const diagnosticCode2 = require('./two');
 
-// In progress
-// Day Five - Part One Tests 
-// describe('Part One', () => {
-//   it('should return 1 when input is 111111-111111', () => {
-//     let input = `111111-111111`;
-//     assert.strictEqual(diagnosticCode(input).total, 1);
-//   });
-// });
-
-// describe('Part One', () => {
-//   it('should return 0 when input is 111111-111110', () => {
-//     let input = `111111-111110`;
-//     assert.strictEqual(diagnosticCode(input).total, 0);
-//   });
-// });
-
-// describe('Part One', () => {
-//   it('should return 0 when input is 123789-123789', () => {
-//     let input = `123789-123789`;
-//     assert.strictEqual(diagnosticCode(input).total, 0);
-//   });
-// });
-
 // Day Five - Part Two Tests 
 describe('Part Two - equal to 8, position mode', () => {
   it('should return 1 when input is 3,9,8,9,10,9,4,9,99,-1,8 and 8', () => {
