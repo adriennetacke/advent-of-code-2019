@@ -29,7 +29,8 @@ The Elves quickly load you into a spacecraft and prepare to launch.
 | ✔ [Day 2: 1202 Program Alarm](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-2-program-alarm)| 🌟| 🌟|
 | ✔ [Day 3: Crossed Wires](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-3-crossed-wires)| 🌟| 🌟|
 | ✔ [Day 4: Secure Container](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-4-secure-container)| 🌟| 🌟|
-|  Day 5: Crossed Wires| ⏳ In progress| ⏳ In progress |
+| ✔  [Day 5: Crossed Wires](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-5-sunny-with-a-chance-of-asteroids)| 🌟| 🌟|
+| ✔  [Day 6: Universal Orbit Map](https://github.com/adriennetacke/advent-of-code-2019/tree/master/day-6-universal-orbit-map)| 🌟| 🌟|
 
 ## Running Tests
 
